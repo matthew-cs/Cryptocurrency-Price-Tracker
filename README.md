@@ -1,4 +1,4 @@
-# Cryptocurrency-Price-Tracker
+# Cryptocurrency Price Tracker
 
 
 **Displays top cryptocurrencies via https://www.coingecko.com/en/api from highest to lowest market cap.** 
