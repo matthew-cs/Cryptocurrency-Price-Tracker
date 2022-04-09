@@ -1,7 +1,7 @@
 # Cryptocurrency-Price-Tracker
 
 
-**Displays top cryptocurrencies via https://www.coingecko.com/en/api from highest market cap to lowest market cap.** 
+**Displays top cryptocurrencies via https://www.coingecko.com/en/api from highest to lowest market cap.** 
 
 ![CryptoPriceTrackerScreenshot](https://user-images.githubusercontent.com/65573447/162587826-910ddd95-3c51-4337-a459-4aa77b30ad18.PNG)
 
